@@ -1,0 +1,10 @@
+; 1) mindig kérje be a látogató nevét, 
+; 2) alapvetően szöveges információk eltárolására törekedjen,
+; 3) legfeljebb 1 darab fájlt engedjen csatolni bejegyzésenként,
+; 4) védekezzen a robotok kommentjei ellen,
+; 5) tárolja el a bejegyzés időpontját,
+6) jelenítse meg a bejegyzés sorszámát,
+; 7) a legújabb tartalom legyen legfelül, a korábbiak kerüljenek lentebb,
+; 8) a hangulatjel karaktereket alakítsa pici képekké,
+; 9) oldja meg, hogy html tag-ekkel ne lehessen széttrollkodni a bejegyzéseket,
+10) és minden új üzenet érkezésekor küldjön értesítő e-mailt az oldal adminjának.

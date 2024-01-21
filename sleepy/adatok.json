@@ -1,0 +1,30 @@
+[
+    {
+        "ev": "2023",
+        "honap": "November",
+        "nap": "27",
+        "lefekves": "10:29",
+        "felkeles": "31:00"
+    },
+    {
+        "ev": "2023",
+        "honap": "November",
+        "nap": "28",
+        "lefekves": "10:20",
+        "felkeles": "31:30"
+    },
+    {
+        "ev": "2023",
+        "honap": "November",
+        "nap": "29",
+        "lefekves": "11:17",
+        "felkeles": "34:20"
+    },
+    {
+        "ev": 2024,
+        "honap": "January",
+        "nap": 19,
+        "lefekves": "11:02",
+        "felkeles": "09:05"
+    }
+]
